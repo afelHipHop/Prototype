@@ -15,3 +15,4 @@ Kevin Rocha - 20161020086
  
  Programa que implementa el patron prototype con interfaz grafica
 # UML
+![prototype](prototype.jpg)
